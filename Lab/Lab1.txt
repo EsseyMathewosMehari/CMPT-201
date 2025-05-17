@@ -1,0 +1,22 @@
+Part 1:
+I did Java for two years in high school, in 11th and 12th grade. Since starting uni two years ago,
+I've mostly been using Python, and now I’m learning C!
+
+
+Part 2:
+NAME
+       cd - Change working directory
+
+SYNOPSIS
+       cd ?dirName?
+_____________________________________________________________________________________________________
+
+DESCRIPTION
+       Change the current working directory to dirName, or to the home directory (as specified in the
+       HOME environment variable) if dirName is not given.  Returns an empty string.  Note  that  the
+
+
+
+Part 3:
+4c which is hex of 16
+24 which is hex of 36
